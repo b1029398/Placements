@@ -76,5 +76,13 @@
 	</head>
 	<body>
 <h1>Welcome to my Placement Grails Application</h1>
+<br>
+<br>
+<h3> View The Application List </h3>
+<a href = '../Placements/application/list'>List </a><br><br>
+<h3> View available Placements </h3>
+<a href ='../Placements/Placement'>Placements </a><br><br><br><br>
+<h3> Apply for a Placement </h3>
+<a href ='../Placements/Apply'>Apply </a><br><br>
 	</body>
 </html>
